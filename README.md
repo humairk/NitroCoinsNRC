@@ -1,8 +1,5 @@
 # NitroCoinsNRC
-
-
-
-           porject Website      http://thenitrocoin.org/
+porject Website      http://thenitrocoin.org/
                               
                               
                               
