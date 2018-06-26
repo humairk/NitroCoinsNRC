@@ -1,0 +1,2 @@
+# NitroCoinsNRC
+http://thenitrocoin.org/
